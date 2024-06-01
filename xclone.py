@@ -171,7 +171,7 @@ def menu():
                         elif xd in ['2','02']:
                                 randm()
                         elif xd in ['3','03']:
-                                os.system('xdg-open https://t.me/systemcracker.x');menu()
+                                os.system('xdg-open https://t.me/systemcracker_x');menu()
                         elif xd in ['0','05']:
                                 exit(f'{B}❲{A}={B}❳{G} EXIT DONE ')
                         else:
